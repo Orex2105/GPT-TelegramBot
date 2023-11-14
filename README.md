@@ -1,1 +1,1 @@
-Это мой простой телеграм бот, использующий API Open AI.
+This is my simple telegram bot that uses the OpenAI API. I started development in September 2023. On November 14, I completed this project and published this README. Probably it's the end.
